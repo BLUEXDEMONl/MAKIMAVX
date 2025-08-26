@@ -1,0 +1,25 @@
+{
+  "anticall": {},
+  "antilink": {},
+  "autoview": {
+    "enabled": true
+  },
+  "emoji": {
+    "emoji": "🌸"
+  },
+  "mode": {
+    "public": false
+  },
+  "prefix": {
+    "prefix": "."
+  },
+  "presence": {
+    "presence": "unavailable"
+  },
+  "stickerCommands": {
+    "113,156,173,27,93,229,110,104,112,223,214,35,189,144,186,107,67,56,213,24,237,108,79,25,57,76,131,106,132,1,198,34": "vv"
+  },
+  "autoreact": {
+    "enabled": false
+  }
+}
